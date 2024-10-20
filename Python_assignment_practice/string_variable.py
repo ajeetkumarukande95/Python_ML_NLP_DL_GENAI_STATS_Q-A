@@ -26,7 +26,5 @@ if check_button and input_str and substring:
     else:
         st.write("Substring not present inside the given input string")
 
-  git config --global user.email "ajeetkumarukande95@gmail.com"
-  git config --global user.name "ajeetkumarukande"
-
+  
 
